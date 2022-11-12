@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.example.showcase.config.ShowcaseConfig,\
+  com.example.showcase.properties.ShowcaseProperties
